@@ -123,6 +123,6 @@ aws-serverless-chatbot/
 
 ## 👨‍💻 Author
 Sushant Bhagat  — DevOps & Cloud Engineer
-🌏 Pune, India | 🇯🇵 Seeking roles in Abroad
+🌏 Pune, India | Seeking roles in Abroad
 LinkedIn:- https://www.linkedin.com/in/sushant-bhagat-p1/
 Email:- sushantb057@gmail.com
