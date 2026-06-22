@@ -5,3 +5,4 @@ AWS Lambda
 Amazon Lex(NLP)
 IAM Security — least-privilege roles applied to every service interaction
 Auto-scaling — serverless architecture scales with demand automatically
+Free or paid both use for this project
