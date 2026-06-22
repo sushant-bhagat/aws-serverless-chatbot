@@ -1,1 +1,7 @@
-A
+**Prerequisites**
+Amazon EC2 instaces
+Simple storage service(S3)
+AWS Lambda
+Amazon Lex(NLP)
+IAM Security — least-privilege roles applied to every service interaction
+Auto-scaling — serverless architecture scales with demand automatically
